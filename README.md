@@ -26,7 +26,8 @@ def circulate():
     print("After circulating the values are: {}".format(a, n))
 ```
 ## Output:
-![output](\![Screenshot from 2022-09-17 13-04-56](https://user-images.githubusercontent.com/113497680/190846040-219796c2-8813-4dbb-a8ce-800e23b1d5e8.png)
+![output](\![Screenshot from 2022-09-17 13-04-56](https://user-images.githubusercontent.com/113497680/190846215-45a95fcd-a8a3-4b28-a815-e31b5e96c576.png)
+
 
 
 ## Result:
